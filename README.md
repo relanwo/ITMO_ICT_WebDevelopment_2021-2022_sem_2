@@ -49,9 +49,9 @@
 ### 1. Фильтры
 
 #### Изучить:
-- [https://django.fun/docs/django-rest-framework/ru/3.12/api-guide/filtering/] - пункт
-- [https://overcoder.net/q/24014/django-rest-framework-%D1%84%D0%B8%D0%BB%D1%8C%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F-%D0%BF%D0%BE-%D0%BF%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D1%82%D1%80%D0%B0%D0%BC-%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D0%B0] - тоже может помочь в понимании
-- [https://www.delftstack.com/howto/django/django-check-logged-in-user/] - пример про использование проверки авторизованности юзера
+- [https://django.fun/docs/django-rest-framework/ru/3.12/api-guide/filtering/](мануал по фильтрации)
+- [https://overcoder.net/q/24014/django-rest-framework-%D1%84%D0%B8%D0%BB%D1%8C%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F-%D0%BF%D0%BE-%D0%BF%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D1%82%D1%80%D0%B0%D0%BC-%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D0%B0](тоже может помочь в понимании)
+- [https://www.delftstack.com/howto/django/django-check-logged-in-user/](пример использования проверки авторизованности юзера)
 
 #### Задание 2.1.1
 
